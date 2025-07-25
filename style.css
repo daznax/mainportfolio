@@ -1,0 +1,34 @@
+html {
+    font-size: medium;
+    background-color: beige;
+}
+
+p.mainPage {
+    text-indent: 8%;
+}
+
+footer {
+    font-size: 1em;
+    font-style: italic;
+    color: lightgray;
+}
+
+#jobTitle {
+    font-style:italic;
+}
+
+.banner {
+    background-color: azure;
+}
+
+button.quickNav {
+    background-color: aquamarine;
+    border-color: aliceblue;
+    border-width: 3px;
+    
+}
+
+.resume {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+}
